@@ -17,7 +17,7 @@ const Index = () => {
       <nav className="fixed top-0 left-0 right-0 z-50 backdrop-blur-lg bg-background/50 border-b border-primary/20">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <h1 className="text-2xl font-bold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-            Sponsorship
+            easy money
           </h1>
           <div className="flex gap-6">
             <a href="#about" className="text-foreground/80 hover:text-primary transition-colors">
