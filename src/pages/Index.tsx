@@ -5,7 +5,7 @@ import Icon from "@/components/ui/icon";
 const Index = () => {
   const sponsorData = {
     name: "Якупов Халит Джафарович",
-    sponsorAmount: 100000,
+    sponsorAmount: 300000,
     earnedPercent: 5,
     tasksCompleted: 1
   };
